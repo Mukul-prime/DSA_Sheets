@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic_Maths/Basic_Maths.iml" filepath="$PROJECT_DIR$/Basic_Maths/Basic_Maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA Sheets.iml" filepath="$PROJECT_DIR$/.idea/DSA Sheets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern_logical_creates/Pattern_logical_creates.iml" filepath="$PROJECT_DIR$/Pattern_logical_creates/Pattern_logical_creates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Think for program/Think for program.iml" filepath="$PROJECT_DIR$/Think for program/Think for program.iml" />
